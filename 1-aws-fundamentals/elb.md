@@ -64,4 +64,4 @@ It costs less to setup your own load balancer, but it will be a lot more effort 
 * 4xx errors are client induced errors
 * 5xx errors are application induced errors
     * Load balancer Errors 503 means at capacity or no registered target
-* If the LB can’t connect to your application, check your security
+* If the LB can’t connect to your application, check your security group
